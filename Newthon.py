@@ -1,4 +1,3 @@
-
 import sympy as sp
 from Equation import Equation
 from NewtonModel import NewtonRaphsonResponse, IterationData
@@ -59,4 +58,15 @@ class NewtonRaphson:
             num_iteration=len(iterations),
             result=None
         )
-        return jsonify(response.dict())  # Convertir a diccionario antes de devolver
+        return jsonify(response.dict())
+
+
+
+
+
+
+
+
+
+
+
