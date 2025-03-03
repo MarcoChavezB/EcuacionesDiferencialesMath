@@ -12,8 +12,8 @@ Antes de ejecutar el programa, asegúrese de tener instalado:
 ### 1️⃣ Clonar el repositorio
 Si tiene acceso al repositorio en GitHub, clónelo con:
 ```sh
- git clone https://github.com/tu-usuario/tu-repositorio.git
- cd tu-repositorio
+ git clone https://github.com/MarcoChavezB/EcuacionesDiferencialesMath
+ cd EcuacionesDiferencialesMath
 ```
 Si recibe el código en un archivo **.zip**, extráigalo en una carpeta y acceda a ella.
 
