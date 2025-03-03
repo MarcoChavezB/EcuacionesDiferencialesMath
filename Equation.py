@@ -45,8 +45,6 @@ class Equation:
         return f_numpy  # Retorna una función de numpy
 
 
-
-
     def get_vars_in_equation(self, equation: str) -> str:
         letras = re.findall(r'[a-zA-Z]', equation)
 

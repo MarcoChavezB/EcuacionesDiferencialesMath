@@ -1,0 +1,4 @@
+sympy
+pydantic
+ttkbootstrap
+numpy

@@ -20,6 +20,7 @@ class RungeKutta:
         """
         equation = Equation()
         parsed_equation = equation.parse_equation(f)
+
         f = sp.lambdify(('x', 'y'), parsed_equation, 'numpy')
 
         y = y0
